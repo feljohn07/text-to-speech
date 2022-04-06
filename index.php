@@ -20,7 +20,7 @@
             <h3 class="no-browser-support">Sorry, Your Browser Doesn't Support the Web Speech API. Try Opening This Demo In Google Chrome.</h3>
                 
             <div class='row'>
-                <div class='col-6'>
+                <div class='col-md-6'>
                    <div class="app"> 
                         <h3>Add New Note</h3>
                         <div class="input-single">
@@ -32,7 +32,7 @@
                         <p id="recording-instructions">Press the <strong>Start Recognition</strong> button and allow access.</p>
                     </div>
                 </div>
-                <div class='col-6'>
+                <div class='col-md-6'>
                     <h3>My Notes</h3>
                     <ul id="notes">
                         <li>
