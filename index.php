@@ -41,6 +41,8 @@
                     </ul>
                 </div>
             </div>
+            
+            <iframe width='560px' height='315px' src='https://www.360easyvr.com/vr/2229?scene_id=8619' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
 
         </div>
 
